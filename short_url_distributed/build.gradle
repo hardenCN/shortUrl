@@ -6,7 +6,7 @@ plugins {
     id "io.freefair.lombok" version "6.3.0"
 }
 
-group = 'com.scdt.shorturldistributed'
+group = 'com.innmore.shorturldistributed'
 version = '1.0.0'
 sourceCompatibility = '11'
 

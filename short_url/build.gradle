@@ -5,7 +5,7 @@ plugins {
 	id 'jacoco'
 }
 
-group = 'com.scdt.shorturl'
+group = 'com.innmore.shorturl'
 version = '1.0.0'
 sourceCompatibility = '11'
 

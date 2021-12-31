@@ -2,7 +2,7 @@ server:
   port: 8088
 
 # 系统设置
-scdt:
+innmore:
   # 一个短域名-长域名映射不能超过1KB
   long-url-max-byte-length: 1016
   # 短域名设置成8位字符
@@ -10,7 +10,7 @@ scdt:
   # LRUCache 内存最大2G
   lru-cache-size: 2097152
   # 用于生成唯一字符串id的salt
-  hashids-salt: scdt-china
+  hashids-salt: innmore-china
   # 生成8位字符的最大自增id
   id-generated-max-size: 319277809663
 
