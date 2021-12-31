@@ -15,7 +15,7 @@ import org.springframework.context.annotation.Bean;
 
 
 /**
- * 	红杉面试作业题，短域名服务
+ * 	com.innmore，短域名服务
  * @author Tommy Zhang
  * @email zdp118@gmail.com
  */

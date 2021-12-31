@@ -16,7 +16,7 @@ import org.springframework.web.client.RestTemplate;
 
 
 /**
- * 	红杉面试作业题，短域名服务  分布式高可用集群版本(zookeeper实现CP)
+ * 	com.innmore，短域名服务  分布式高可用集群版本(zookeeper实现CP)
  *
  * @author Tommy Zhang
  * @email zdp118@gmail.com
